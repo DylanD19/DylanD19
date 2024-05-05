@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DylanD19
-- 👀 I’m interested in pursuing a degree in Computer Science and a Masters in CyberSecurity with a minor in Economics or Finance 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project's that could use a person learning python or web dev knowledge 
+- 👋 Hi, I’m Dylan 
+- 👀 I’m am pursuing a degree in Cybersecurity with a minor in D.S and C.S. 
+- 🌱 I’m currently learning PHP , C++ , R
+- 💞️ I’m looking to collaborate on any project's. 
 - 📫 How to reach me dylandias960@yahoo.com
 
 <!---
